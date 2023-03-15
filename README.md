@@ -14,7 +14,7 @@
   <p>To get started with the Python backtesting library, follow these steps:</p>
     <ol>
       <li>Clone this repository using the following command:</li>
-      <pre><code>git clone https://github.com/tomasgaudino/python-backtesting.git</code></pre>
+      <pre><code>git clone --branch development https://github.com/tomasgaudino/python-backtesting.git</code></pre>
       <li>Navigate to the cloned repository directory:</li>
       <pre><code>cd python-backtesting</code></pre>
       <li>Install the required packages by running:</li>
